@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/" lang="FI">
+        <file>img/location.jpg</file>
+        <file>img/location_cancel.png</file>
+        <file>img/bus.jpg</file>
+        <file>img/walk.jpg</file>
+        <file>img/train.png</file>
+        <file>img/bus.png</file>
+        <file>img/metro.png</file>
+        <file>img/tram.png</file>
+        <file>img/ferry.png</file>
+        <file>img/nightbus.png</file>
+        <file>launch_icon_reittiopas.svg</file>
+        <file>arrows.svg</file>
+        <file>img/remove_plain.svg</file>
+        <file>launch_icon_reittiopas_black_plain_converted.svg</file>
+        <file>img/links.svg</file>
+        <file>qml/reittiopas_qtquick/AddressDialog.qml</file>
+        <file>qml/reittiopas_qtquick/AddressField.qml</file>
+        <file>qml/reittiopas_qtquick/main.qml</file>
+        <file>qml/reittiopas_qtquick/MainPageReittiopas.qml</file>
+        <file>qml/reittiopas_qtquick/mains60.qml</file>
+        <file>qml/reittiopas_qtquick/reittiopashelpers.js</file>
+        <file>qml/reittiopas_qtquick/RouteList.qml</file>
+        <file>qml/reittiopas_qtquick/RouteLists60.qml</file>
+        <file>qml/reittiopas_qtquick/RouteMap.qml</file>
+        <file>qml/reittiopas_qtquick/RoutePage.qml</file>
+        <file>qml/reittiopas_qtquick/RoutePages60.qml</file>
+    </qresource>
+</RCC>
